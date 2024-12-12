@@ -1,0 +1,9 @@
+to docker project
+
+sudo docker compose up
+
+then you can access the web interface at http://localhost:8080/
+
+to watch the changes in the code, you can use the following command:
+
+sudo docker compose watch
